@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.Dice" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/grey</item>
+        <item name="colorPrimaryDark">@color/grey</item>
+    </style>
+</resources>
